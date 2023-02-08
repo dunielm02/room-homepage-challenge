@@ -50,4 +50,4 @@ Users should be able to:
 ## Author
 
 - Website - [Duniel Mesa Díaz](https://github.com/dunielm02)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/dunielm02)
+- Frontend Mentor - [@dunielm02](https://www.frontendmentor.io/profile/dunielm02)
