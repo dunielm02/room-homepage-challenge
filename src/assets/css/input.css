@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    @font-face {
+        font-family: "CustomFont";
+        src: url("./LeagueSpartan-VariableFont_wght.ttf") format("ttf"),
+    }
+
+    .font-500 {
+        font-family: CustomFont;
+        font-weight: 500;
+    }
+    .font-600 {
+        font-family: CustomFont;
+        font-weight: 600;
+    }
+    .font-700 {
+        font-family: CustomFont;
+        font-weight: 700;
+    }
+
+
+  }
