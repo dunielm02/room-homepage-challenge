@@ -68,9 +68,12 @@ emitter.on('right-arrow', function(){
 const view = ref(0)
 
 const imgDir = reactive([
-  {mobile: "/src/assets/images/mobile-image-hero-1.jpg", desktop: "/src/assets/images/desktop-image-hero-1.jpg"},
-  {mobile: "/src/assets/images/mobile-image-hero-2.jpg", desktop: "/src/assets/images/desktop-image-hero-2.jpg"},
-  {mobile: "/src/assets/images/mobile-image-hero-3.jpg", desktop: "/src/assets/images/desktop-image-hero-3.jpg"}
+  // {mobile: "/src/assets/images/mobile-image-hero-1.jpg", desktop: "/src/assets/images/desktop-image-hero-1.jpg"},
+  // {mobile: "/src/assets/images/mobile-image-hero-2.jpg", desktop: "/src/assets/images/desktop-image-hero-2.jpg"},
+  // {mobile: "/src/assets/images/mobile-image-hero-3.jpg", desktop: "/src/assets/images/desktop-image-hero-3.jpg"}
+  {mobile: "/room-homepage-challenge/assets/mobile-image-hero-1.jpg", desktop: "/room-homepage-challenge/assets/desktop-image-hero-1.jpg"},
+  {mobile: "/room-homepage-challenge/assets/mobile-image-hero-2.jpg", desktop: "/room-homepage-challenge/assets/desktop-image-hero-2.jpg"},
+  {mobile: "/room-homepage-challenge/assets/mobile-image-hero-3.jpg", desktop: "/room-homepage-challenge/assets/desktop-image-hero-3.jpg"}
 ])
 
 </script>
